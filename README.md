@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# VisionCraft AI 
 
-## Getting Started
+VisionCraft is a Software-as-a-Service app with AI features and payments & credits system using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
 
-First, run the development server:
+## 🚀 Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Home](https://github.com/codescientists/visioncraft-ai/assets/66505013/255cfe34-7abe-48a3-9a29-887e768c7cc4)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💡 Introduction
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+VisionCraft AI is an innovative project harnessing the power of artificial intelligence to revolutionize image editing and manipulation. Our mission is to provide you with cutting-edge tools that empower creativity and streamline your workflow.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Key Features:
 
-## Learn More
+- Image Restore: Seamlessly repair damaged or old images with our advanced restoration capabilities, bringing new life to treasured memories.
 
-To learn more about Next.js, take a look at the following resources:
+- Generative Fill: Let your imagination soar as our AI fills in missing areas of an image with stunning realism, effortlessly completing your compositions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Object Remove: Effortlessly remove unwanted elements from your photos, ensuring your images convey exactly what you envision.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Object Recolor: Transform the colors of specific objects in your images, opening up a world of creative possibilities and customization.
 
-## Deploy on Vercel
+- Background Remover: Instantly isolate subjects from their backgrounds with precision and ease, allowing you to place them in new environments or designs seamlessly.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## ⚙️ Tech Stack
+
+- Next JS
+- React JS
+- TypeScript
+- Tailwind CSS
+- ShadCN UI
+- MongoDB
+- Express.js
+- Stripe Payment
+- Cloudinary AI
+
+## 📸 Screenshots
+
+
+**Home Page**
+
+![Home](https://github.com/codescientists/visioncraft-ai/assets/66505013/255cfe34-7abe-48a3-9a29-887e768c7cc4)
+
+**Image Restore**
+![Restore](https://github.com/codescientists/visioncraft-ai/assets/66505013/6f80a0f5-adb8-41ae-8fd0-29922f8ad8ba)
+
+**Generative Fill**
+
+![Generative](https://github.com/codescientists/visioncraft-ai/assets/66505013/dff656d9-b47e-45cd-8ec3-08b8adfd6209)
+
+**Object Remove**
+
+![Object Remove](https://github.com/codescientists/visioncraft-ai/assets/66505013/fff5a1a7-62e6-4fe8-97c1-0f672ad10fa3)
+
+
+**Background Remove**
+![Background Remove](https://github.com/codescientists/visioncraft-ai/assets/66505013/8347dd26-7cce-4c2f-a8b0-867f898ffa41)
+
+
+**Profile Page**
+
+![Profile](https://github.com/codescientists/visioncraft-ai/assets/66505013/691002d9-21da-4b75-a130-6e2537dc03f5)
+
